@@ -1,0 +1,70 @@
+{
+    "userInfo":
+    {
+        "appid":  "dangxiao",
+        "userName": "2001213029",
+        "password": "lgk@wind123", 
+        "randCode": "",
+        "smsCode": "",
+        "otpCode": "",
+        "redirUrl": "http://dangxiao.pku.edu.cn/user/casLogin"
+    },
+    "headers" : 
+    [
+        {
+             "X-Something":  "value",
+             "Host":  "iaaa.pku.edu.cn",
+             "Accept":  "application/json, text/javascript, */*; q=0.01",
+             "Accept-Encoding ":  "gzip, deflate, br",
+             "Accept-Language ":  "zh,en;q=0.9,en-US;q=0.8",
+             "Origin":  "https://iaaa.pku.edu.cn",
+             "Referer":  "https://iaaa.pku.edu.cn/iaaa/oauth.jsp",
+             "Sec-Fetch-Dest":  "empty",
+             "Sec-Fetch-Mode":  "cors",
+             "Sec-Fetch-Site":  "same-origin",
+             "User-Agent":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+             "X-Requested-With": " XMLHttpRequest",
+             "sec-ch-ua":  "\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"",
+             "sec-ch-ua-mobile":  "?0",
+             "sec-ch-ua-platform": "macOS",
+             "Content-Type":  "application/x-www-form-urlencoded; charset=UTF-8",
+             "Content-Length": 0
+         },
+         {
+            "Host":  "dangxiao.pku.edu.cn",
+            "Accept":  "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+            "Accept-Encoding ":  "gzip, deflate",
+            "Accept-Language ":  "zh,en;q=0.9,en-US;q=0.8",
+            "User-Agent":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+            "Upgrade-Insecure-Requests": 1,
+            "Connection":"keep-alive",
+            "Content-Length": 0
+        },
+        {
+            "Host":  "dangxiao.pku.edu.cn",
+            "Accept":  "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+            "Accept-Encoding ":  "gzip, deflate",
+            "Accept-Language ":  "zh,en;q=0.9,en-US;q=0.8",
+            "Referer": "http://dangxiao.pku.edu.cn/ybdy/",
+            "User-Agent":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+            "Upgrade-Insecure-Requests": 1,
+            "Connection":"keep-alive",
+            "Content-Length": 0
+        },
+        {
+            "X-Something":  "value",
+            "Host":  "dangxiao.pku.edu.cn",
+            "Accept":  "application/json, text/javascript, */*; q=0.01",
+            "Accept-Encoding ":  "gzip, deflate",
+            "Accept-Language ":  "zh,en;q=0.9,en-US;q=0.8",
+            "Origin":  "http://dangxiao.pku.edu.cn",
+            "Referer":  "http://dangxiao.pku.edu.cn/ybdy/lesson/play?v_id=1775&lesson_id=801&r_id=4050&r=video&pg=",
+            "User-Agent":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+            "X-Requested-With": " XMLHttpRequest",
+            "Content-Type":  "application/x-www-form-urlencoded; charset=UTF-8",
+            "Content-Length": 0
+        }
+    ]
+
+}
+

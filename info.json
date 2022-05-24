@@ -1,0 +1,12 @@
+{
+    "userInfo":
+    {
+        "userName": "aaa",
+        "password": "bbbb"
+    },
+    "courseLink":
+    [
+        "http://dangxiao.pku.edu.cn/ybdy/lesson/play?v_id=1490&lesson_id=800&r_id=2886&r=video&t=2&pg=1",
+        "'http://dangxiao.pku.edu.cn/ybdy/lesson/play?v_id=1490&lesson_id=800&r_id=2886&r=video&t=2&pg=1'"
+    ]
+}
